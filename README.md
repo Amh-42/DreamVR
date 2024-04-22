@@ -1,2 +1,0 @@
-# DreamVR
-Virtual Reality System
