@@ -1,12 +1,10 @@
-# DevSearch
+# DreamVR
 
-Sourcode and Resources for Django 2021 Course
-
-See the full course here: https://dennisivy.teachable.com/p/django-beginners-course
+Sourcode and Resources for DreamVR project
 
 # Installation
 
-- 1 - clone repo https://github.com/divanov11/Django-2021
+- 1 - clone repo https://github.com/Amh-42/DreamVR.git
 - 2 - create a virtual environment and activate
 - - pip install virtualenv
 - - virtualenv envname
@@ -17,26 +15,15 @@ See the full course here: https://dennisivy.teachable.com/p/django-beginners-cou
 
 # Features
 
-- Share Projects
-- Message other developers
-- Rate others work
-- Search other developers
-
-# Course Overview
-
-- Basic Djagno Overview
-- Database Design and Models
-- Static Files
-- User Registration & Authenticaiton
-- Search
-- Pagination
-- Building an API with Django REST Framework (DRF)
-- Deployment
+- Explore Virtual Environment
+- Book & Rate Hotels
+- Search for Tour options
+- Contact Tour Agencies
 
 # Tech Stack
 
 - Django
-- Postgres
+- MongoDB
 - Django REST Framework
 
 # Home Page
@@ -54,3 +41,4 @@ See the full course here: https://dennisivy.teachable.com/p/django-beginners-cou
 # User Inbox
 
 <img src="./resources/images/Devsearch Inbox.jpg">
+"# VR-tourist-platform-with-booking-portal-backend" 
